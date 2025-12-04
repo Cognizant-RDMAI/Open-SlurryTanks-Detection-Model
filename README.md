@@ -24,6 +24,9 @@ The model was designed to work as part of a fully automated geospatial pipeline.
 - **Geolocation**: Convert pixel-based bounding boxes into real-world geographic coordinates using metadata from the source GeoTIFFs.
 - **Integration**: Export outputs as GeoJSON files compatible with common GIS platforms such as QGIS, ArcGIS, and Leaflet.
 
+### 1.4. Report Download
+Please download the Open Slurry Tank Detection Model Report [HERE](./doc/Open%20Slurry%20Tank%20Detection%20Model%20Report.pdf).
+
 ## 2. Installation Instructions
 To get started with the slurry tank detection model:
 ### 2.1 Clone the repository
