@@ -213,6 +213,7 @@ To ensure smooth training and inference of the YOLOv8-based detection pipeline, 
 - RAM: Minimum 16 GB system memory
 - CPU: Quad-core processor or higher
 - Python: Version ≥ 3.9, < 3.11
+- Pytorch: Version 2.10.0 with CUDA 11.8, depending on the NVIDIA GPU driver
 
 The detection pipeline requires the following major Python libraries:
  
