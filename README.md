@@ -25,7 +25,17 @@ The model was designed to work as part of a fully automated geospatial pipeline.
 - **Integration**: Export outputs as GeoJSON files compatible with common GIS platforms such as QGIS, ArcGIS, and Leaflet.
 
 ### 1.4. Report Download
-Please download the Open Slurry Tank Detection Model Report [HERE](./doc/Open%20Slurry%20Tank%20Detection%20Model%20Report.pdf).
+Please download the Open Slurry Tank Detection Model Report [HERE](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model/tree/main/doc).
+
+### Benchmark Download:
+
+River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model/tree/main/doc).
+
+### Whitepaper Download:
+
+Please download the whitepaper [here](https://github.com/Cognizant-RDMAI/Open-SlurryTanks-Detection-Model/tree/main/doc).
+
+
 
 ## 2. Installation Instructions
 To get started with the slurry tank detection model:
